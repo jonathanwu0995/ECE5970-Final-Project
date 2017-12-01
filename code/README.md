@@ -1,0 +1,3 @@
+# How to run code
+
+For both python notebooks, you just need to run all the blocks from top to bottom sequentially. The baseline python notebook should generate a test and validation prediction csv and export it to results. The current model python notebook should generate a test and validation prediction csv as well. The current model has all the functions to calculate the accuracy, mean square error, mean absolute error and the function to graph the ROC curves.
